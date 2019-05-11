@@ -1,0 +1,24 @@
+Using movielens
+epoch :  0
+a_error(in) 0.499726832717 0.249789052667 a_error(out) 0.250132578708
+epoch :  1
+a_error(in) 0.499325211964 0.249391365682 a_error(out) 0.250014049097
+epoch :  2
+a_error(in) 0.498284454914 0.248369741936 a_error(out) 0.249148586545
+epoch :  3
+a_error(in) 0.494463472496 0.244719872818 a_error(out) 0.244752936059
+epoch :  4
+a_error(in) 0.479337897302 0.23187210347 a_error(out) 0.227725850828
+epoch :  5
+a_error(in) 0.437000110176 0.203014668631 a_error(out) 0.190766880315
+epoch :  6
+a_error(in) 0.367118042963 0.161960354941 a_error(out) 0.145688042684
+epoch :  7
+a_error(in) 0.279876505174 0.116525805262 a_error(out) 0.101851238931
+epoch :  8
+a_error(in) 0.194384487979 0.078438207528 a_error(out) 0.0705375876967
+epoch :  9
+a_error(in) 0.129599012168 0.0536261939855 a_error(out) 0.0538918602545
+finish
+Before update 0.0538918602545
+Output predict after training
