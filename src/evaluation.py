@@ -35,12 +35,12 @@ def evaluate(predict_path, answer_path, average=False, is_target_with_header=Fal
     if is_target_with_header:
         targets = df_ans.loc[1:,1] # drop header and choose the column of targets
     else:
-        targets = df_ans.loc[:,1] # drop header and choose the column of targets
+        targets = df_ans.loc[:,1] # choose the column of targets
     
     if is_ranked_list_with_header:
         ranked_lists = df_pre.loc[1,:] # drop header
     else:
-        ranked_lists = df_pre.loc[:,:] # drop header
+        ranked_lists = df_pre.loc[:,:] 
 
     if ranked_list_cols:
         ranked_lists = ranked_lists.loc[:,ranked_list_cols]  # choose columns of ranked items

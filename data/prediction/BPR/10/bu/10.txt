@@ -1,0 +1,47 @@
+Using movielens
+epoch :  0
+a_error(in) 0.499750154669 0.249811797632 a_error(out) 0.250129887331
+epoch :  1
+a_error(in) 0.49943886067 0.249502793314 a_error(out) 0.250103211093
+epoch :  2
+a_error(in) 0.498828206358 0.248900822838 a_error(out) 0.250023801154
+epoch :  3
+a_error(in) 0.497195701827 0.247309086746 a_error(out) 0.249753928021
+epoch :  4
+a_error(in) 0.491811552016 0.24226533459 a_error(out) 0.248915898513
+epoch :  5
+a_error(in) 0.474276244522 0.227918588113 a_error(out) 0.246718025275
+epoch :  6
+a_error(in) 0.436854273403 0.202160061653 a_error(out) 0.242929190668
+epoch :  7
+a_error(in) 0.38678749287 0.170322176403 a_error(out) 0.23880978111
+epoch :  8
+a_error(in) 0.330011054698 0.137454548793 a_error(out) 0.234888455642
+epoch :  9
+a_error(in) 0.276082132633 0.109400521564 a_error(out) 0.231480991289
+finish
+Before update 0.231480991289
+Output predict after training
+epoch :  0
+a_error(out) 0.231480991289
+epoch :  1000
+a_error(out) 0.189778938938
+epoch :  2000
+a_error(out) 0.181669182672
+epoch :  3000
+a_error(out) 0.15708558929
+epoch :  4000
+a_error(out) 0.134495993482
+epoch :  5000
+a_error(out) 0.11254220848
+epoch :  6000
+a_error(out) 0.0930605126999
+epoch :  7000
+a_error(out) 0.0705689998661
+epoch :  8000
+a_error(out) 0.0550608429325
+epoch :  9000
+a_error(out) 0.0344760946447
+epoch :  10000
+a_error(out) 0.0131075793988
+After update 0.0130121210116
